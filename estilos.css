@@ -1,0 +1,37 @@
+*{}
+html{background-color:white;}
+body{width:1290px;height:1750px;margin:auto;background-color:gray;}
+header{width:1290px;height:150px;margin:left;background-color:black;}
+nav{width:1290px;height:650px;margin:left;background-color:yellow;}
+main{width:1290px;height:600px;margin:left;background-color:pink;}
+footer{width:1290px;height:350px;margin:left;background-color:black;font-family:georgia;color:white;}
+
+section#logo{width:180px;height:120px;margin-left:100px;background-color:red;margin-top:20px;float:left;}
+section#Inicio{width:75px;height:50px;margin-left:80px;background-color:black;margin-top:55px;float:left}
+section#Nosotros{width:100px;height:50px;margin-left:80px;background-color:black;margin-top:55px;float:left}
+section#tours{width:220px;height:50px;margin-left:80px;background-color:black;margin-top:55px;float:left}
+section#Contacto{width:100px;height:50px;margin-left:80px;background-color:black;margin-top:55px;float:left}
+section#Blog{width:60px;height:50px;margin-left:80px;background-color:black;margin-top:55px;float:left}
+
+section#banner{width:200px;height:650px;margin-left:0px;background-color:green;margin-top:0px;float:left}
+section#login{width:890px;height:650px;margin-left:0px;background-color:purple;margin-top:0px;float:left}
+
+article{width:300px;height:400px;margin-left:97.5px;background-color:orange;margin-top:100px;float:left}
+
+aside#left{width:600px;height:350px;margin-left:50px;background-color:black;margin-top:0px;float:left}
+aside#right{width:540px;height:350px;margin-left:50px;background-color:black;margin-top:0px;float:left}
+
+a:hover h2{color:red}
+  a{text-decoration:none;}
+  
+  div{float:left;margin-left:85px;margin-top:15px;margin-bottom:20px;}
+  .circulo> .imagen{border-radius:80%}
+  
+  form{background-image:url(https://ep01.epimg.net/elpais/imagenes/2018/09/03/viajero_astuto/1535991838_981204_1536040021_noticia_normal.jpg) ;
+  background-size:100vw 100vh;background-attachment:fexied;}
+  form{width:540px;height:320px;margin:auto;margin-left:0px;border-radius:20px;}
+  
+  input,textarea{width:500px;margin-top:10px;border:none;margin-left:20px}
+  textarea{min-height:100px;max-height:500px;max-width:100%;}
+  #boton{background-color:gray;font-size:2em;}
+  #boton:hover{color:red;cursor:pointer;}
